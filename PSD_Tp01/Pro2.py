@@ -1,3 +1,4 @@
+
 total_s = 9875
 
 hour = total_s // 3600
